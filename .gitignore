@@ -7,4 +7,3 @@ archivos_personales/
 #ignorar todos los archivos de photoshop, png y gimp
 *.psd
 *.xcf
-*.png
